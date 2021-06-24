@@ -1,6 +1,4 @@
-### Hi there 👋
-
-'''
+```
                                              
                                   88         
                                   88         
@@ -12,8 +10,10 @@ a8"    `Y88 a8P_____88 a8P_____88 88 ,a8"
  `"YbbdP"Y8  `"Ybbd8"'  `"Ybbd8"' 88   `Y8a  
  aa,    ,88                                  
   "Y8bbdP"                                   
-'''
+```
+Hi. My name is RYAN SALVANERA. 
 
+I develop and test software, and I coach teams and individuals to unleash their **Super Powers**.
 
 <!--
 **pinoytesters/pinoytesters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
