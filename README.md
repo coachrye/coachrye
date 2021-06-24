@@ -11,10 +11,24 @@ a8"    `Y88 a8P_____88 a8P_____88 88 ,a8"         a8"     "" a8"     "8a ""     
  aa,    ,88                                  
   "Y8bbdP"                                   
 ```
-     
-Hi. My name is **RYAN SALVANERA**. 
 
-I develop and test software, and I coach teams and individuals to **Unleash** their **Super Powers**.
+### Hi there. I'm Ryan aka [Coach Rye][website]. 
+
+## I'm a Husband, Developer, Tester, Manager and Coach!!
+
+- 📖 I'm currently learning ... a bunch of stuff! 😅 
+- 👨🏻‍💻 2021: Contribute to Open Source Projects
+- 🌱 I'm always looking to coach teams and leaders and help them **Unleash** their **Super Powers**.
+
+<!-- 
+### Now Playing on Spotify 🎧
+TODO: https://www.youtube.com/watch?v=n6d4KHSKqGk
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="coachRye Spotify Playing" width="350" />](https://open.spotify.com/user/ryansalvanera)
+
+
+TODO: https://github.com/codeSTACKr
+-->
+
 
 <!--
 **pinoytesters/pinoytesters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,3 +46,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[website]: https://coachrye.com
