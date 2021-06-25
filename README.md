@@ -14,11 +14,16 @@ a8"    `Y88 a8P_____88 a8P_____88 88 ,a8"         a8"     "" a8"     "8a ""     
 
 ### Hi there. I'm Ryan aka [Coach Rye][website]. 
 
-## I'm a Husband, Developer, Tester, Manager and Coach!!
+## I'm a Developer, Tester, Manager and Coach!!
 
-- 📖 I'm currently learning ... a bunch of stuff! 😅 
-- 👨🏻‍💻 2021: Contribute to Open Source Projects
-- 🌱 I'm always looking to coach teams and leaders and help them **Unleash** their **Super Powers**.
+- The Geek in Me ... 
+   - 👨🏻‍💻 enjoys coding and testing software. 
+   - 📖 loves learning a bunch of stuff 
+   - 💻 wants to contribute to Open Source Projects.
+- The Coach in Me ...
+   - 👥 enjoys building and managing great teams, and developing leaders. 
+   - 🌱 loves coaching individuals and helping them **Unleash** their unique **Super Powers**.
+
 
 <!-- 
 ### Now Playing on Spotify 🎧
