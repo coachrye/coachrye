@@ -24,6 +24,12 @@ a8"    `Y88 a8P_____88 a8P_____88 88 ,a8"         a8"     "" a8"     "8a ""     
    - 👥 enjoys building and managing great teams, and developing leaders. 
    - 🌱 loves coaching individuals and helping them **Unleash** their unique **Super Powers**.
 
+## Social Media
+
+- [LinkedIn](https://ph.linkedin.com/in/ryansalvanera) 
+- [Twitter](https://twitter.com/coachrye34)
+- [Instagram](https://instagr.am/coachrye)
+
 
 <!-- 
 ### Now Playing on Spotify 🎧
