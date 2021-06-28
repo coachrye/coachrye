@@ -13,7 +13,7 @@ a8"    `Y88 a8P_____88 a8P_____88 88 ,a8"         a8"     "" a8"     "8a ""     
 ```
 
 ### Hi there. I'm Ryan aka [Coach Rye][website]. 
-<a href=[website] target="_blank">LinkedIn</a>
+
 ## I'm a Developer, Tester, Manager and Coach!!
 
 - The Geek in Me ... 
