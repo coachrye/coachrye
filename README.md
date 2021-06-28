@@ -13,7 +13,7 @@ a8"    `Y88 a8P_____88 a8P_____88 88 ,a8"         a8"     "" a8"     "8a ""     
 ```
 
 ### Hi there. I'm Ryan aka [Coach Rye][website]. 
-
+<a href=[website] target="_blank">LinkedIn</a>
 ## I'm a Developer, Tester, Manager and Coach!!
 
 - The Geek in Me ... 
@@ -26,9 +26,9 @@ a8"    `Y88 a8P_____88 a8P_____88 88 ,a8"         a8"     "" a8"     "8a ""     
 
 ## Social Media
 
-- [LinkedIn](https://ph.linkedin.com/in/ryansalvanera) 
-- [Twitter](https://twitter.com/coachrye34)
-- [Instagram](https://instagr.am/coachrye)
+- <a href="https://ph.linkedin.com/in/ryansalvanera" target="_blank">LinkedIn</a>
+- <a href="https://twitter.com/coachrye34" target="_blank">Twitter</a>
+- <a href="https://instagr.am/coachrye" target="_blank">Instagram</a>
 
 
 <!-- 
