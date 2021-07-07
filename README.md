@@ -1,3 +1,5 @@
+### Hi there. I'm Ryan aka [Coach Rye][website]. 
+
 ```
 =====================================================================================================================
 ||                                                 ||                                                              ||
@@ -15,8 +17,6 @@
 =====================================================================================================================
 ```
 
-### Hi there. I'm Ryan aka [Coach Rye][website]. 
-
 ## I'm a Developer, Tester, Manager and Coach!!
 
 - The Geek in Me ... 
@@ -28,12 +28,15 @@
    - 🌱 loves coaching individuals and helping them **Unleash** their unique **Super Powers**.
 
 ## Social Media
+[<img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_linked_in-256.png">][linkedin]
+[<img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_twitter-256.png">][twitter]
+[<img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media-256.png">][instagram]
 
-- <a href="https://ph.linkedin.com/in/ryansalvanera" target="_blank">LinkedIn</a>
-- <a href="https://twitter.com/coachrye34" target="_blank">Twitter</a>
-- <a href="https://instagr.am/coachrye" target="_blank">Instagram</a>
-
-
+<!-- 
+<img height="50" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/facebook_online_social_media-256.png">
+<img height="50" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/youtube_online_social_media-256.png">
+<img height="50" src="https://cdn4.iconfinder.com/data/icons/socialmediaicons_v120/48/youtube.png">
+-->
 <!-- 
 ### Now Playing on Spotify 🎧
 TODO: https://www.youtube.com/watch?v=n6d4KHSKqGk
@@ -63,3 +66,6 @@ Here are some ideas to get you started:
 
 
 [website]: https://coachrye.com
+[linkedin]: https://www.linkedin.com/in/ryansalvanera
+[twitter]: https://twitter.com/coachrye34
+[instagram]: https://instagr.am/coachrye
