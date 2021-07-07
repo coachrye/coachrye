@@ -27,16 +27,32 @@
    - 👥 enjoys building and managing great teams, and developing leaders. 
    - 🌱 loves coaching individuals and helping them **Unleash** their unique **Super Powers**.
 
+<!-- Tech Stack
+
+PHP
+Python
+Selenium
+Wordpress
+SQL
+PostgreSQL
+MySQL
+Oracle SQL
+Microsoft SQL Server
+ASP
+Visual Basic
+Visual FoxPro
+JavaScript
+
+-->
+
 ## Social Media
 [<img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_linked_in-256.png">][linkedin]
 [<img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_twitter-256.png">][twitter]
 [<img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media-256.png">][instagram]
 
-<!-- 
-<img height="50" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/facebook_online_social_media-256.png">
-<img height="50" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/youtube_online_social_media-256.png">
-<img height="50" src="https://cdn4.iconfinder.com/data/icons/socialmediaicons_v120/48/youtube.png">
--->
+
+
+
 <!-- 
 ### Now Playing on Spotify 🎧
 TODO: https://www.youtube.com/watch?v=n6d4KHSKqGk
@@ -62,6 +78,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!-- 
+<img height="50" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/facebook_online_social_media-256.png">
+<img height="50" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/youtube_online_social_media-256.png">
+<img height="50" src="https://cdn4.iconfinder.com/data/icons/socialmediaicons_v120/48/youtube.png">
 -->
 
 
