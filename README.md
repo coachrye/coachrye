@@ -29,9 +29,17 @@
 <h2 align="center">Tech Stack</h2>
 <!-- https://www.flaticon.com/packs/software-development-logos --> <!-- icons8.com -->
 
+<!--
+. | . | . | . | . 
+------ | ------ | ------ | ------ | ------ 
+<img width="100" src="https://img.icons8.com/color/144/000000/python--v2.png" alt="Python"/> | <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/100px-Selenium_Logo.png" alt="Selenium"/> | <img width="100" src="https://image.flaticon.com/icons/png/512/919/919827.png" alt="HTML 5"> | <img width="100" src="https://image.flaticon.com/icons/png/512/919/919828.png" alt="Javascript">  | <img width="100" src="https://image.flaticon.com/icons/png/512/919/919826.png" alt="CSS 3">
+<img src="https://img.icons8.com/color/96/000000/sql.png" alt="SQL"/> | <img width="100" src="https://img.icons8.com/color/144/000000/postgreesql.png" alt="PostgreSQL"/> | <img width="100" src="https://image.flaticon.com/icons/png/512/919/919836.png" alt="MySQL"> | <img height="100" src="https://img.icons8.com/color/144/000000/microsoft-sql-server.png" alt="Microsoft SQL"/> | <img width="100" src="https://img.icons8.com/color/100/000000/oracle-logo.png" alt="Oracle"/> 
+<img width="100" src="https://img.icons8.com/color/144/000000/wordpress.png" alt="Wordpress"/> | <img width="100" src="https://image.flaticon.com/icons/png/512/919/919830.png" alt="PHP"> | <img width="100" src="https://image.flaticon.com/icons/png/512/919/919844.png" alt="Visual Basic"/> | <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png" alt="Visual FoxPro"/> | |
+-->
+
+
 <p align="center">
    <img width="100" src="https://img.icons8.com/color/144/000000/python--v2.png" alt="Python"/> <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/100px-Selenium_Logo.png" alt="Selenium"/> <img width="100" src="https://image.flaticon.com/icons/png/512/919/919827.png" alt="HTML 5"> <img width="100" src="https://image.flaticon.com/icons/png/512/919/919828.png" alt="Javascript"> <img width="100" src="https://image.flaticon.com/icons/png/512/919/919826.png" alt="CSS 3"> <img width="100" src="https://img.icons8.com/color/144/000000/wordpress.png" alt="Wordpress"/> <img width="100" src="https://image.flaticon.com/icons/png/512/919/919830.png" alt="PHP"> <img width="100" src="https://image.flaticon.com/icons/png/512/919/919844.png" alt="Visual Basic"/> <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png" alt="Visual FoxPro"/> <img src="https://img.icons8.com/color/96/000000/sql.png" alt="SQL"/> <img width="100" src="https://img.icons8.com/color/144/000000/postgreesql.png" alt="PostgreSQL"/> <img width="100" src="https://image.flaticon.com/icons/png/512/919/919836.png" alt="MySQL"> <img height="100" src="https://img.icons8.com/color/144/000000/microsoft-sql-server.png" alt="Microsoft SQL"/> <img width="100" src="https://img.icons8.com/color/100/000000/oracle-logo.png" alt="Oracle"/> 
-
 </p>
 
 <h2 align="center">Social Media</h2>
