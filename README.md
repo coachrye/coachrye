@@ -58,12 +58,15 @@ ASP
 
 <h2 align="center">Social Media</h2>
 
+<p align="center">
+   <a href="https://www.linkedin.com/in/ryansalvanera"><img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_linked_in-256.png"></a> <a href="https://twitter.com/coachrye34"><img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_twitter-256.png"></a> <a href="https://instagr.am/coachrye"><img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media-256.png"></a>
+</p>
+
+<!--
 [<img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_linked_in-256.png">][linkedin]
 [<img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_twitter-256.png">][twitter]
 [<img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media-256.png">][instagram]
-
-
-
+-->
 
 
 <!-- 
