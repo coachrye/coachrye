@@ -107,3 +107,6 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/ryansalvanera
 [twitter]: https://twitter.com/coachrye34
 [instagram]: https://instagr.am/coachrye
+<p align="center">
+   <a href="https://icons8.com/icon/">Multiple Icons by Icons8</a>
+</p>
