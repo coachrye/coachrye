@@ -16,8 +16,7 @@
 ||                                                 ||                                                              ||
 =====================================================================================================================
 ```
-
-## I'm a Developer, Tester, Manager and Coach!!
+<h2 align="center">I'm a Developer, Tester, Manager and Coach !!!</h2>
 
 - The Geek in Me ... 
    - 👨🏻‍💻 enjoys coding and testing software. 
@@ -29,26 +28,38 @@
 
 <!-- Tech Stack
 
-PHP
-Python
+✅ PHP
+✅ Python
 Selenium
-Wordpress
-SQL
-PostgreSQL
-MySQL
-Oracle SQL
-Microsoft SQL Server
+✅ Wordpress
+✅ SQL
+✅ PostgreSQL
+✅ MySQL
+✅ Oracle SQL
+✅ Microsoft SQL Server
 ASP
-Visual Basic
+✅ Visual Basic
 Visual FoxPro
-JavaScript
+✅ JavaScript
 
 -->
+<h2 align="center">Tech Stack</h2>
+<!-- https://www.flaticon.com/packs/software-development-logos --> <!-- icons8.com -->
 
-## Social Media
+<p align="center">
+<img width="100" src="https://img.icons8.com/color/144/000000/wordpress.png" alt="Wordpress"/> <img width="100" src="https://img.icons8.com/color/144/000000/python--v2.png" alt="Python"/>  <img width="100" src="https://image.flaticon.com/icons/png/512/919/919830.png" alt="PHP"> <img width="100" src="https://image.flaticon.com/icons/png/512/919/919827.png" alt="HTML 5"> <img width="100" src="https://image.flaticon.com/icons/png/512/919/919828.png" alt="Javascript"> <img width="100" src="https://image.flaticon.com/icons/png/512/919/919826.png" alt="CSS 3"> <img width="100" src="https://image.flaticon.com/icons/png/512/919/919844.png" alt="Visual Basic">
+</p>
+ 
+<p align="center">
+<img src="https://img.icons8.com/color/96/000000/sql.png" alt="SQL"/> <img width="100" src="https://img.icons8.com/color/144/000000/postgreesql.png" alt="PostgreSQL"/> <img width="100" src="https://image.flaticon.com/icons/png/512/919/919836.png" alt="MySQL"> <img height="100" src="https://img.icons8.com/color/144/000000/microsoft-sql-server.png" alt="Microsoft SQL"/> <img width="100" src="https://img.icons8.com/color/100/000000/oracle-logo.png" alt="Oracle"/> 
+</p>
+
+<h2 align="center">Social Media</h2>
+
 [<img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_linked_in-256.png">][linkedin]
 [<img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_twitter-256.png">][twitter]
 [<img height="100" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media-256.png">][instagram]
+
 
 
 
