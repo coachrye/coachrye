@@ -1,4 +1,4 @@
-<h3 align="center">Hi there. I'm Ryan aka [Coach Rye][website].</h3>  <!-- https://ascii.co.uk/art -->
+### Hi there. I'm Ryan aka [Coach Rye][website]. <!-- https://ascii.co.uk/art -->
 
 ```
 =================================================================================================================
